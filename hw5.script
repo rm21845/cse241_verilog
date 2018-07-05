@@ -1,0 +1,40 @@
+Script started on Mon 13 Apr 2015 07:34:04 PM EDT
+dragonforce {~/courses/cse241/hw5} > vvp q436.vcd
+time=                   0 y = 0 x = 0 V = 0 D = 0 000
+time=                  10 y = 0 x = 0 V = 1 D = 0 001
+time=                  20 y = 1 x = 0 V = 1 D = 0 010
+time=                  30 y = 1 x = 0 V = 1 D = 0 011
+time=                  40 y = 0 x = 1 V = 1 D = 0 100
+time=                  50 y = 0 x = 1 V = 1 D = 0 101
+time=                  60 y = 0 x = 1 V = 1 D = 0 110
+time=                  70 y = 0 x = 1 V = 1 D = 0 111
+time=                  80 y = 1 x = 1 V = 1 D = 1 000
+time=                  90 y = 1 x = 1 V = 1 D = 1 001
+time=                 100 y = 1 x = 1 V = 1 D = 1 010
+time=                 110 y = 1 x = 1 V = 1 D = 1 011
+time=                 120 y = 1 x = 1 V = 1 D = 1 100
+time=                 130 y = 1 x = 1 V = 1 D = 1 101
+time=                 140 y = 1 x = 1 V = 1 D = 1 110
+time=                 150 y = 1 x = 1 V = 1 D = 1 111
+dragonforce {~/courses/cse241/hw5} > vvp q449.vcd
+F1 = 0 F2 = 1 A = 0 B = 0	C = 0 D = 0 
+F1 = 1 F2 = 0 A = 0 B = 0	C = 0 D = 1 
+F1 = 1 F2 = 1 A = 0 B = 0	C = 1 D = 0 
+F1 = 1 F2 = 0 A = 0 B = 0	C = 1 D = 1 
+F1 = 1 F2 = 1 A = 0 B = 1	C = 0 D = 0 
+F1 = 0 F2 = 1 A = 0 B = 1	C = 0 D = 1 
+F1 = 1 F2 = 1 A = 0 B = 1	C = 1 D = 0 
+F1 = 0 F2 = 1 A = 0 B = 1	C = 1 D = 1 
+F1 = 1 F2 = 1 A = 1 B = 0	C = 0 D = 0 
+F1 = 1 F2 = 0 A = 1 B = 0	C = 0 D = 1 
+F1 = 1 F2 = 1 A = 1 B = 0	C = 1 D = 0 
+F1 = 1 F2 = 0 A = 1 B = 0	C = 1 D = 1 
+F1 = 1 F2 = 1 A = 1 B = 1	C = 0 D = 0 
+F1 = 1 F2 = 0 A = 1 B = 1	C = 0 D = 1 
+F1 = 1 F2 = 1 A = 1 B = 1	C = 1 D = 0 
+F1 = 1 F2 = 0 A = 1 B = 1	C = 1 D = 1 
+dragonforce {~/courses/cse241/hw5} > ls
+[00m[00m443.txt[00m  [00mhw5.script[00m  [00mq436.v[00m  [00;32mq436.vcd[00m  [00mq449.v[00m  [00;32mq449.vcd[00m
+[mdragonforce {~/courses/cse241/hw5} > ^Dexit
+
+Script done on Mon 13 Apr 2015 07:34:58 PM EDT
